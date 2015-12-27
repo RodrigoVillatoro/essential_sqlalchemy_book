@@ -2,4 +2,4 @@
 
 Exercises from:
 Essential SQLAlchemy, 2nd Edition
-by Jason Myers; Rick Copeland
+by Jason Myers and Rick Copeland
